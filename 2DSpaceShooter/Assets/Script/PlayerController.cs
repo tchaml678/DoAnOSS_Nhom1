@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //MoveKey();
-        //MoveMouse();
+        MoveMouse();
 
     }
 
