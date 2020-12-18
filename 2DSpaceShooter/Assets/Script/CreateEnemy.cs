@@ -16,7 +16,7 @@ public class CreateEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Create();
+        Create();
     }
 
     void Create()
